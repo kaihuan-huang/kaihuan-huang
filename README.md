@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kaihuan Huang</h1>
 <h3 align="center">Co-Founder@Real Estate Assistant AI | SWE | AI Engineer</h3>
 
-- 🔭 I’m currently working on [Real Estate Assistant AI](https://www.realestateassistant.ai/)
+#- 🔭 I’m currently working on [Real Estate Assistant AI](https://www.realestateassistant.ai/)
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m looking to collaborate on [Real Estate Assistant AI](https://www.realestateassistant.ai/)
+#- 👯 I’m looking to collaborate on [Real Estate Assistant AI](https://www.realestateassistant.ai/)
 
 - 👨‍💻 All of my projects are available at [Kaihuan Personal Portfolio](https://kaihuan-huang.github.io/Personal-Portfolio-React/)
 
