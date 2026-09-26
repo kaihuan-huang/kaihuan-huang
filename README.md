@@ -6,6 +6,7 @@ AI engineer building LLM agents for money-moving workflows: evals before launch,
 
 | Demo | What it shows |
 |---|---|
+| [Refund Agent](https://kaihuan-huang.github.io/refund-agent-demo/) | An LLM agent that proposes refunds with tool calls but can't move money: fixed checks, human approval, then a hash-chained ledger entry. Includes a recorded run where the model over-refunds and the approver catches it. |
 | [Booking Agent](https://kaihuan-huang.github.io/booking-agent-demo/) | A bilingual (English / 中文) booking agent that books only on an explicit yes. The model-only pilot got 57% of messages right; rules plus a confirmation gate got 85% with 0 invented values. Compare against your own local LLM. |
 | [Tamper-Evident Ledger](https://kaihuan-huang.github.io/ledger-demo/) | Payments, refunds and voids as a hash-chained event log. Edit, delete or rewrite a row and verification points to it. |
 | [PII Detector](https://kaihuan-huang.github.io/pii-detector-demo/) | Finds cards, emails, phones and API keys before text reaches a model. The model runs in your browser with 0 network requests. |
