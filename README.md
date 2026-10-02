@@ -18,7 +18,7 @@ AI engineer building LLM agents for money-moving workflows, with the controls fi
 - **AI Engineer Intern, [Polygraf.ai](https://www.polygraf.ai/)** (Oct 2025–Jun 2026): layered English/Chinese PII detector, a pure-function policy engine, masked LLM chat, and a Postgres transactional-outbox pipeline feeding a hash-chained audit trail.
 - **MSc Computer Science with Artificial Intelligence**, University of York (2025) · Certificate in Full Stack Web Development, UC Berkeley Extension (2022).
 
-**Stack:** Python, FastAPI, SQLAlchemy 2.0, PostgreSQL (pgvector), Redis · TypeScript, React / Next.js · Ollama, Claude Code · AWS (ECS Fargate, RDS, KMS), OpenTofu, Docker, GitHub Actions, Twilio.
+**Stack:** Python, FastAPI, SQLAlchemy 2.0, PostgreSQL (pgvector), Redis · TypeScript, React / Next.js · Ollama · AWS (ECS Fargate, RDS, KMS), OpenTofu, Docker, GitHub Actions, Twilio.
 **Spoken:** English, Mandarin, Cantonese, Spanish.
 
 [LinkedIn](https://linkedin.com/in/kaihuanhuang/)
