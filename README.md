@@ -17,7 +17,7 @@ AI engineer building production Python services and evaluated LLM applications: 
 
 ## Work
 
-- **AI Engineer, Jackson Ventures** (Apr 2026–present): reservation service in production with real guests; IPOT POS backend (atomic settlement, refunds, audited voids); rebuilt Nalu, the bilingual booking agent (pre-launch); loan-draw review controls for BloomFrontier (in review).
+- **AI Engineer, Jackson Ventures** (Apr 2026–present): reservation service in production with real guests; IPOT POS backend (atomic settlement, refunds, audited voids); rebuilt Nalu, the bilingual booking agent (pre-launch); loan-draw review controls and a release gate for BloomFrontier (merged Oct 2026).
 - **AI Engineer Intern, [Polygraf.ai](https://www.polygraf.ai/)** (Oct 2025–Jun 2026): PII detection and policy enforcement for text sent to AI tools; governance dashboard.
 - **MSc Computer Science with Artificial Intelligence**, University of York (2025).
 
