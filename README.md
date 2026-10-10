@@ -23,4 +23,4 @@ AI engineer building production Python services and evaluated LLM applications: 
 
 **Stack:** Python, FastAPI, SQLAlchemy, PostgreSQL (pgvector), Redis, Temporal · TypeScript, React / Next.js · Ollama · AWS, Azure, OpenTofu, Docker, GitHub Actions.
 
-[Email](mailto:huangkaihuan0216@gmail.com) · [LinkedIn](https://linkedin.com/in/kaihuanhuang/) · [Résumé](https://kaihuan-huang.github.io/resume.html)
+[Email](mailto:huangkaihuan0216@gmail.com) · [LinkedIn](https://linkedin.com/in/kaijacksonus/) · [Résumé](https://kaihuan-huang.github.io/resume.html)
