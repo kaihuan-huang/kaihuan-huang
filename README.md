@@ -1,6 +1,6 @@
 # Kaihuan Huang
 
-AI engineer building production Python services and evaluated LLM applications: FastAPI, PostgreSQL, bilingual model evaluation and deterministic controls. San Francisco Bay Area · US permanent resident.
+Backend / AI engineer building financial APIs, AI-assisted reviews and data pipelines with FastAPI and PostgreSQL. San Francisco Bay Area · US permanent resident.
 
 **Portfolio:** [kaihuan-huang.github.io](https://kaihuan-huang.github.io/), with nine case studies, each number linked to where it was measured.
 
