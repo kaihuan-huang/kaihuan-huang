@@ -2,7 +2,7 @@
 
 Backend / AI engineer building financial APIs, AI-assisted reviews and data pipelines in Python and Go, with FastAPI and PostgreSQL. San Francisco Bay Area · US permanent resident.
 
-**Portfolio:** [kaihuan-huang.github.io](https://kaihuan-huang.github.io/), with twelve case studies, each number linked to where it was measured.
+**Portfolio:** [kaihuan-huang.github.io](https://kaihuan-huang.github.io/), with thirteen case studies, each number linked to where it was measured.
 
 ## Live demos
 
